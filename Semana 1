@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tabla con celdas extendidas</title>
+    <!-- Estilo básico para que se vean las líneas de la tabla -->
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Tabla con celdas extendidas</h2>
+
+    <table>
+        <!-- Fila 1 -->
+        <tr>
+            <td>bravo</td>
+            <td>charlie</td>
+            <td>juliet</td>
+            <td>lima</td>
+            <td>quebec</td>
+        </tr>
+
+        <!-- Fila 2 -->
+        <tr>
+            <td>alfa</td>
+            <td>foxtrot<br>golf</td>
+            <!-- Celda grande central que abarca varias filas/columnas -->
+            <td colspan="2" rowspan="2">india</td>
+            <td>papa</td>
+        </tr>
+
+        <!-- Fila 3 -->
+        <tr>
+            <td>delta<br>echo</td>
+            <td>hotel</td>
+            <td>oscar</td>
+        </tr>
+
+        <!-- Fila 4 -->
+        <tr>
+            <td>kilo</td>
+            <td>november</td>
+            <td>mike</td>
+            <!-- Faltan espacios o se completan con celdas vacías según la estructura -->
+        </tr>
+    </table>
+
+</body>
+</html>

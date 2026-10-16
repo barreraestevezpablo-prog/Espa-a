@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Mi Segunda página<title>
+</head>
+<body>
+<main>
+<h1>Mi Segunda página</h1>
+<section>
+<h2>ASIR</h2>
+<p>Hola soy pablo y me gusta el furbo</p>
+</section>
+<section>
+<h2>Hobbies</h2>
+<ul>
+<li>Jugar al padel</li>
+<li>Jugar videojuegos</li>
+<li>Ver series</li>
+</ul>
+</main>
+</section>
+<img src="https://storelli.com/es-eu/blogs/the-storelli-blog/4-tipos-de-contacto-en-el-futbol?srsltid=AU7gw4VSdKdFNxJLrqyQg7CeHVeLgl9WPHaC11kwzt96B-DzYbk_poef" alt="El mejor deporte"
+
+<a href="https://www3.gobiernodecanarias.org/medusa/edublog/cifpmajadamarcial/oferta-educativa/">ASIR</a>
+
+
+
+
+</body>
+
+
+
+
+
+</html>
